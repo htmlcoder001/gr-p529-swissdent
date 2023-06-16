@@ -495,7 +495,7 @@ header {
   border-top: 1px solid #ACACAC;
   font-style: normal;
   font-weight: 400;
-  font-size: 20px;
+  font-size: 16px;
   line-height: 24px;
   text-align: center;
   display: block;
@@ -592,7 +592,7 @@ header {
 .form-submit__text {
   font-style: normal;
   font-weight: 600;
-  font-size: 20px;
+  font-size: 18px;
   line-height: 24px;
   text-align: center;
   cursor: pointer;
